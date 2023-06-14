@@ -659,6 +659,9 @@ scroll-header{
 .work__img{
   border-radius: 1rem;
   margin-bottom: .75rem;
+  display: flex;
+  justify-content: center;
+
 }
 
 .work__title{
@@ -977,7 +980,8 @@ scroll-header{
   }
 
   .work__img{
-    width: 295px;
+    width: 450px;
+    height: 370px;
   }
 
   .contact__info{
